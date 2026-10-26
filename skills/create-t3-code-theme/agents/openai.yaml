@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create T3 Code Theme"
+  short_description: "Create and refine light and dark T3 Code themes"
+  default_prompt: "Use $create-t3-code-theme to create a T3 Code theme from this palette or brand guide."
